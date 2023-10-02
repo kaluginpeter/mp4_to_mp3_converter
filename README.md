@@ -1,21 +1,23 @@
 # mp4_to_mp3_converter
 
-# Quick Start
+# Quick Start:
 
-# Clone repo
+# 1) Clone repo
 
-# Make a virtual environment
+# 2) Make a virtual environment
 
-# Install requirements libraries by command:
+# 3) Install requirements libraries by command:
 # pip install -r requirements.txt
 
-# open main.py file
+# 4) Open main.py file
 
-# In "video" added path to your .mp4 file
+# 5) In "video" added path to your .mp4 file
 
-# Then in "audio" write a name of your .mp3 file
+# 6) Then in "audio" write a name of your .mp3 file
 
-# In the end launch in terminal command:
+# 7) In the end launch in terminal command:
 # python main.py
+
 # When process ended, audio file will be saving in your current path
+
 # Enjoy
